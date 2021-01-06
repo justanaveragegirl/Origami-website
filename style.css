@@ -1,0 +1,16 @@
+
+    h1{
+         color: black;
+    }
+    .Camel{
+        background-color: lightcoral;
+        display: flex;
+    }
+     .cicadas{
+         background-color: lightslategrey;
+         display: flex;
+     }
+   .pigeons{
+       background-color: magenta;
+       display: flex;
+   }
